@@ -39,7 +39,7 @@ Skills: C++ / Java / Python / Flutter / Dart / Android Development / Rest APIs /
 
 
 [instagram]: https://instagram.com/__pankaj7__
-[linkedin]: linkedin.com/in/pankaj-parihar-63946a20b
+[linkedin]: https://www.linkedin.com/in/pankaj-parihar-63946a20b/
 
 
 [![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=banku27)](https://github.com/banku27/github-readme-activity-graph)
