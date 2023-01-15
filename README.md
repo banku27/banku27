@@ -38,7 +38,7 @@ Skills: C++ / Java / Python / Flutter / Dart / Android Development / Rest APIs /
 
 
 
-[instagram]: https://instagram.com/_pankaj7_
+[instagram]: https://instagram.com/__pankaj7__
 [linkedin]: linkedin.com/in/pankaj-parihar-63946a20b
 
 
