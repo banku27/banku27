@@ -34,7 +34,7 @@ Skills: C++ / Java / Python / Flutter / Dart / Android Development / Rest APIs /
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 
 
-![Pankaj GitHub stats](https://github-readme-stats.vercel.app/api?username=banku27&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<!-- ![Pankaj GitHub stats](https://github-readme-stats.vercel.app/api?username=banku27&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
 
 
 
