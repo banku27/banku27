@@ -34,10 +34,6 @@ Skills: C++ / Java / Python / Flutter / Dart / Android Development / Rest APIs /
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 
 
-<!-- ![Pankaj GitHub stats](https://github-readme-stats.vercel.app/api?username=banku27&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
-
-
-
 [instagram]: https://instagram.com/__pankaj7__
 [linkedin]: https://www.linkedin.com/in/pankaj-parihar-63946a20b/
 
@@ -47,6 +43,5 @@ Skills: C++ / Java / Python / Flutter / Dart / Android Development / Rest APIs /
 
 <a href="http://www.github.com/banku27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=banku27&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/banku27"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=banku27&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/banku27"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=banku27&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Pankaj Parihar's Contribution Graph" /></a>
 
-[![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=banku27)](https://github.com/banku27/github-readme-activity-graph)
