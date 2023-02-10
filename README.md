@@ -43,5 +43,9 @@ Skills: C++ / Java / Python / Flutter / Dart / Android Development / Rest APIs /
 
 <a href="http://www.github.com/banku27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=banku27&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<b>Most Used Languages:-</b>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banku27&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/banku27/github-readme-stats)
+
 <a href="http://www.github.com/banku27"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=banku27&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Pankaj Parihar's Contribution Graph" /></a>
 
