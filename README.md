@@ -5,7 +5,7 @@
 My name -> Pankaj Parihar|| Flutter Developer ||  I love to explore and learn new things that is one of the reasons I m here on Github. || Love to solve the real world things.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=banku27.banku27)
-(https://github.com/banku27) [![Followers](https://img.shields.io/github/followers/banku27?style=social)](https://github.com/banku27?tab=followers)
+[![Followers](https://img.shields.io/github/followers/banku27?style=social)](https://github.com/banku27?tab=followers)
 
 Skills: C++ / Java / Python / Flutter / Dart / Android Development / Rest APIs / C / HTML / CSS
 
