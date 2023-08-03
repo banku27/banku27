@@ -8,6 +8,8 @@ As a skilled Flutter developer with over 2 years of experience, I am dedicated t
 
 Playstore App Link : https://play.google.com/store/apps/details?id=com.pankaj.expense_tracker
 
+[![](https://visitcount.itsvg.in/api?id=banku27&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=banku27.banku27)
 [![Followers](https://img.shields.io/github/followers/banku27?style=social)](https://github.com/banku27?tab=followers)
 
