@@ -35,8 +35,8 @@ Skills: C++ / Java / Python / Flutter / Dart / Android Development / Rest APIs /
 ### Connect:
 
 💬 ask me for any help;
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
+[<img align="left" alt="banku27 | LinkedIn" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="banku27 | Instagram" width="40px" src="https://img.icons8.com/fluency/344/instagram-new.png" />][instagram]
 
 
 [instagram]: https://instagram.com/__pankaj7__
