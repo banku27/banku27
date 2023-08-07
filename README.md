@@ -53,5 +53,4 @@ Skills: C++ / Java / Python / Flutter / Dart / Android Development / Rest APIs /
 
 <img width="" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=banku27&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 
-<a href="http://www.github.com/banku27"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=banku27&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Pankaj Parihar's Contribution Graph" /></a>
 
