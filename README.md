@@ -43,11 +43,14 @@ const skills = {
 <a href="https://instagram.com/__pankaj7__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=banku27&theme=tokyonight" alt="banku27" />
-</p>
+<b>GitHub Stats</b>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=banku27&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="banku27" />
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=banku27)](https://github.com/banku27/github-contribution-stats/)
+
+<a href="http://www.github.com/banku27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=banku27&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<b>Most Used Languages</b>
+
+<img width="" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=banku27&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
